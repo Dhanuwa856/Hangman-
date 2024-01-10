@@ -17,7 +17,7 @@ def hangman():
   used_letters = set() # what the user guessed 
   
   
-  lives = 10 # <--- Change the number of instances as you wish
+  lives = 6 # <--- Change the number of instances as you wish
   
   
   
